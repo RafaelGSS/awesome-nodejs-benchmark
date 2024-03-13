@@ -1,6 +1,6 @@
 # awesome-nodejs-benchmark
 
-A collection of resources regarding Node.js benchmark
+A list of Node.js benchmark resources that are useful as a reference, but not ready for production. Note, that it's a personal list (RafaelGSS).
 
 * [nodejs-bench-operations](https://github.com/RafaelGSS/nodejs-bench-operations) - A set of benchmarks on common Node.js operations.
 * [nodejs-bench-alternatives](https://github.com/RafaelGSS/nodejs-bench-alternatives) - A set of benchmarks comparing Node.js built-in against popular packages.
