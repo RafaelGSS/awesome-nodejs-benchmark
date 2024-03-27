@@ -13,3 +13,4 @@ A list of Node.js benchmark resources that are useful as a reference, but not re
 * [dont-serve-static-files](https://github.com/RafaelGSS/dont-serve-static-files) - A practical example why you shouldn't serve static files in the application layer.
 * [flash-profiler](https://github.com/RafaelGSS/flash-profiler) - A lightweight profiler for Node.js
 * [autobench](https://github.com/RafaelGSS/autobench) - Benchmark your HTTP application on CI
+* [open-apm-sdk-node](https://github.com/RafaelGSS/open-apm-sdk-node) - Lightweight local APM for Node.js
