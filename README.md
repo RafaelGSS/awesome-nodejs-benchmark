@@ -14,3 +14,6 @@ A list of Node.js benchmark resources that are useful as a reference, but not re
 * [flash-profiler](https://github.com/RafaelGSS/flash-profiler) - A lightweight profiler for Node.js
 * [autobench](https://github.com/RafaelGSS/autobench) - Benchmark your HTTP application on CI
 * [open-apm-sdk-node](https://github.com/RafaelGSS/open-apm-sdk-node) - Lightweight local APM for Node.js
+* [instant-bench-agent](https://github.com/instant-Bench/instant-bench-agent) - Runs your benchmark on a dedicated instance.
+* [instant-bench-nvim](https://github.com/instant-Bench/instant-bench-nvim) - A Neovim plugin to generate for the selected text
+
